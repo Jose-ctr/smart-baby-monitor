@@ -26,4 +26,5 @@ This project is an IoT-based baby monitoring system using ESP32.
 ## 🚀 Future Improvements
 - Mobile App integration
 - Camera streaming
-Author Joseph Mbui 
+  
+Author Joseph Mbui
